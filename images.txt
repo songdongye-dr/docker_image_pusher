@@ -1,1 +1,8 @@
 infiniflow/ragflow:v0.17.2
+infiniflow/infinity
+elasticsearch
+mysql
+postgres
+redis
+valkey/valkey
+minio/minio
